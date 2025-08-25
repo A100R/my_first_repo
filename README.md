@@ -9,4 +9,4 @@
 
 *Добавили текст в новой ветке - readmeEdit*
 
-### Point
+### Point ... continue
